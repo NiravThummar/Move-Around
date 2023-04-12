@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "276964933760",
+    "project_id": "move-around-b11cd",
+    "storage_bucket": "move-around-b11cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276964933760:android:f46a213530489aea2b6665",
+        "android_client_info": {
+          "package_name": "com.example.move_around"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276964933760-1v1k3hg8qqrsqaafib3842hekqeibr0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbIws81Oo0aZc2jFx1OqB8GWjX1k9Oibg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276964933760-1v1k3hg8qqrsqaafib3842hekqeibr0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
